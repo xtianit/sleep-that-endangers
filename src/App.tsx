@@ -278,7 +278,7 @@ const SundaySchoolApp = () => {
     };
 
     const [contentData, setContentData] = useState<ContentData>({
-        lessonDate: "March 22, 2015",
+        lessonDate: "May 10, 2026",
         lessonTitle: "The Sleep That Endangers",
         memoryVerse:
             "And he cometh and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour? — Mark 14:37",
